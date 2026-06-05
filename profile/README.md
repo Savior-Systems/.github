@@ -1,34 +1,52 @@
 <div align="center">
-  <h1>Savior Systems</h1>
-  <p><b>Clinical Luxury • Minimalist Engineering</b></p>
+<img src="https://raw.githubusercontent.com/Savior-Systems/.github/main/profile/assets/savior-systems-wordmark.svg" alt="Savior Systems Wordmark" width="400" />
+  <h2>Clinical Luxury • Minimalist Engineering</h2>
+  <p><b>Architecting High-ROI Ecosystems & Autonomous Infrastructures</b></p>
+  <br>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
-## Infrastructure & Philosophy
+<br>
 
-Savior Systems operates at the intersection of high-ROI execution and AI-driven automation. We build scalable digital architectures with a strict focus on precision, security, and performance. Our technical aesthetic strips away decorative bloat to focus entirely on product capability and technical specifications.
+## ✦ Orchestration Layer
 
-### Core Engineering Pillars
+**Savior Systems** is the parent entity and central engineering hub led by Hasan Rizvee. This organization serves as the technical backbone for our digital agencies, fashion ventures, and SaaS products. We operate at the intersection of high-ROI execution, AI-driven development (Antigravity, Cursor), and rigorous structural engineering. 
 
-| Pillar | Execution Strategy | Impact |
+Whether we are deploying a D2C menswear infrastructure, a custom ERP, or an Android application, our code strictly adheres to **Minimalist Engineering** principles: zero bloat, highly scalable, and structurally immaculate.
+
+## ✦ Engineered Ecosystems & Products
+
+Below is the live registry of digital architectures, SaaS products, and brands managed and powered by Savior Systems.
+
+| Project / Brand | Architecture Matrix | Strategic Impact |
 | :--- | :--- | :--- |
-| **Autonomous Development** | Leveraging Antigravity, VivaCode, and Cursor for large-scale workflow automation. | Drastically reduces boilerplate time and accelerates production-ready shipping. |
-| **Minimalist Architecture** | Zero arbitrary design. Every line of code serves a functional purpose. | Highly maintainable codebases with minimal technical debt. |
-| **Secure Operations** | Private-first repository structures with rigorous secret risk assessment scans. | Enterprise-grade security for internal tools and client deployments. |
+| **Savior Lifestyle** | E-commerce Engine, PHP, Next.js, Meta Ads | Direct-to-consumer premium menswear brand built from zero to scalable global supply chain. |
+| **VELOR** | 3D Prototyping, Technical Specs | Technical menswear brand built on high-density pique cotton. Strict focus on product mechanics. |
+| **CIB ERP & Portals** | React, PHP, AJAX | Custom Student Management System & secure certificate verification portal for the Culinary Institute. |
+| **PIXELRIFT** | HTML5, CSS3, JS, GitHub Pages | High-performance browser-based gaming portal focusing on vanilla execution speed. |
+| **StockSync** | Laravel, PHP, SQLite, SaaS | Custom inventory control web application designed for enterprise streamlining. |
+| **WooAdvancePay** | WordPress Plugin Dev, PHP, API | Solves cash flow logic in cash-on-delivery markets via partial advance payment architecture. |
 
-## Technology Stack
+## ✦ Engineering Doctrine
 
-Our tech stack is selected for speed, scalability, and seamless AI integration.
+> Problems are broken down to fundamental truths. We evaluate cross-disciplinary impacts (e.g., how the DOM structure affects technical SEO) before committing a single line of code.
 
-* **Frontend & UX:** React, Next.js, TailwindCSS
-* **Mobile Infrastructure:** Native Android pipelines, Google Play Console integration
-* **Automation & AI:** Custom LLM wrappers, Cursor, Antigravity workflow
-* **Deployment:** GitHub Actions, Vercel, Automated CI/CD
+* **Autonomous First:** AI agents (Antigravity, VivaCode) handle boilerplate. Human intelligence handles business logic and security.
+* **Minimal Surface Area:** No arbitrary abstractions. If a framework creates hidden magic, it is rejected.
+* **Security & CI/CD Integrity:** All sub-repositories are verified against this central organization pipeline (`.github/workflows/core-ci.yml`) to ensure zero credential leaks and enforced strict typing.
 
-## Operational Directives
+## ✦ Collaboration & Agent Directives
 
-> Problems are broken down to fundamental truths. We do not rely on standard best practices without questioning their efficiency. Cross-disciplinary impacts like SEO implications of code structure are calculated before committing to an architecture.
+For developers, recruiters, and AI agents parsing this infrastructure:
+1. **Conventional Commits:** All PRs must use `feat:`, `fix:`, `chore:`, or `docs:` semantic prefixes.
+2. **Review Mandate:** Boilerplate generated by Cursor/Antigravity must have a 100% human sign-off loop.
+3. **Contact Protocol:** For enterprise architecture collaborations, reach out via official channels.
 
 <br>
 <div align="center">
-  <sub>Engineered for scale.</sub>
-</div>
+  <p><sub>Savior Systems © 2026 • Based in Dhaka, Bangladesh.</sub></p>
